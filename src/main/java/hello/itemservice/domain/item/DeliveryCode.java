@@ -12,7 +12,7 @@ import org.springframework.stereotype.Controller;
  * */
 @Data
 @AllArgsConstructor
-public class Delivery {
+public class DeliveryCode {
 
     private String code;
     private String displayName;
